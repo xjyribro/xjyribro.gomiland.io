@@ -1,0 +1,36 @@
+<<character "City council" CityCouncil>>
+<<character Risa>>
+<<character Manuka>>
+<<character Stark>>
+<<character Asimov>>
+<<character "Qian Bi" QianBi>>
+<<character "Mr Moon" Moon>>
+<<declare $rubbishName as String>>
+title: rubbish_error
+---
+CityCouncil: Dear resident, please throw {$rubbishName} into the correct bin.
+===
+title: plastic_error
+---
+Risa: {$rubbishName} is not made of plastic.
+===
+title: glass_error
+---
+Manuka: Bzzzz! {$rubbishName} is not made of glass.
+===
+title: metal_error
+---
+Stark: Hey be careful kid! {$rubbishName} ain't made of metal.
+===
+title: electronics_error
+---
+Asimov: {$rubbishName} is not electronic waste. I can't use that!
+===
+title: paper_error
+---
+QianBi: This is a great disaster! {$rubbishName} is not made of paper.
+===
+title: food_error
+---
+Moon: {$rubbishName} is not food waste.
+===
