@@ -9,7 +9,7 @@ title: boy
 <<if $rand == 1>>
     Boy : Remember to separate plastics from paper!
 <<elseif  $rand == 2>>
-    Boy : I wonder if all trash can be recycled.
+    Boy : I wonder if all rubbish can be recycled.
 <<elseif  $rand == 3>>
     Boy : Sustainability of the planet effects us all.
 <<elseif  $rand == 4>>
@@ -65,6 +65,6 @@ title: woman
 <<elseif  $rand == 4>>
     Woman : I heard the local convenience store is planning to reduce single-use plastic containers.
 <<elseif  $rand == 5>>
-    Woman : It's tough sorting out all the trash!
+    Woman : It's tough sorting out all the rubbish!
 <<endif>>
 ===

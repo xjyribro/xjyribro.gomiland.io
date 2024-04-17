@@ -44,7 +44,7 @@ title: buy_bag
         {$friendName}: Looks like you don't have enough coins. Come back when you do!
     <<else>>
         <<upgradeBag>>
-        {$friendName}: Here you go! A bag that can hold 20 pieces of trash.
+        {$friendName}: Here you go! A bag that can hold 20 pieces of rubbish.
         {$friendName}: You can give your old one to Himiko. She will hand them out to people who don't have one.
     <<endif>>
 ===
