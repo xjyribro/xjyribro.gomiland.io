@@ -7,3 +7,13 @@ title: bag_is_empty
 ---
 Himiko: Your bag is empty. Look around for black balls of rubbish.
 ===
+title: first_pickup
+---
+Himiko: You picked up your first piece of rubbish.
+Himiko: Now go home to sort it!
+===
+title: find_risa
+---
+Himiko: It seems that there is a lot of plastic waste picked up.
+Himiko: Find Risa at the convenient store west of the city. She has a plan!
+===
