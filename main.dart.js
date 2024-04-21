@@ -107756,7 +107756,12 @@ if(i>0.2){k.M=0
 i=k.K
 i===$&&A.a();++i
 k.K=i
-if(i===1080){i=k.br
+if(i>1440){k.K=0
+i=k.br
+i===$&&A.a()
+i.V.q(0,B.EH)}else{i=k.br
+i===$&&A.a()
+i.V.q(0,B.E1)}if(k.K===1080){i=k.br
 i===$&&A.a()
 i.ao.F(A.fm(0.2,A.cL(B.c3,1,!1,j),j,j))
 i=k.br
@@ -107787,12 +107792,7 @@ q=A.b_O()
 p=A.aQT(100,B.e.dC(50))
 i=i.V
 i.q(0,new A.qD(q))
-i.q(0,new A.qF(p))}if(k.K>1440){k.K=0
-i=k.br
-i===$&&A.a()
-i.V.q(0,B.EH)}else{i=k.br
-i===$&&A.a()
-i.V.q(0,B.E1)}}i=k.K
+i.q(0,new A.qF(p))}}i=k.K
 i===$&&A.a()
 o=B.c.dC(i/60)
 n=B.e.cO(k.K,60)
